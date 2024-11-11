@@ -1,2 +1,4 @@
-test
-erfcef
+socks5h://2ebfnpfl4vx:mxlxorocrn@78.129.169.15:1080
+socks5h://ru7mc2zjyr:11j128qjwa3@169.150.223.47:1080
+socks5h://1edo23vrjhx:kjwo7xlltl@78.129.169.15:1080
+socks5h://26yn1ztj5w1:ruor61qkmn@169.150.223.47:1080
